@@ -5,10 +5,11 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I am currently studying for my undergraduate degree in the School of Software, Shandong University.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 In the future, I will go to the Institute of Computing Technology, Chinese Academy of Sciences (ICT) to study for a master's degree in high-performance computing.
+- 📝 In the future, I will go to the Institute of Computing Technology, Chinese Academy of Sciences (ICT) to study for a master's degree.
+- 🌈 My research direction is high-performance computing. Of course, I also know a little about computer vision, neural networks, network security and other fields.
 - 💻 I use daily: **python**, **java**, **verilog**, **cpp**.
 - 📖 I am currently reading **The Courage to Be Disliked** by Ichiro Kishimi and Fumitake Koga.
-- 💬 I am interested in **FPGA**, **accelerated computing**, **computer vision** and some other fields.
+- 💬 I am interested in **FPGA**, **Deep Learning Accelerater**, **computer vision** and some other fields.
 - ⚡ My hobby: Badminton, Lego and Robot.
 - 🧑‍💻 Tech I work on :
 
