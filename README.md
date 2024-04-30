@@ -10,7 +10,7 @@
 - 💬 I am interested in **FPGA**, **Deep Learning Accelerater**, **computer vision** and some other fields.
 - 💻 I use daily: **python**, **java**, **verilog**, **cpp**.
 - 📖 I am currently reading **The Courage to Be Disliked** by Ichiro Kishimi and Fumitake Koga.
-- ⚡ My hobby: Badminton, Lego and Robot.
+- ⚡ My hobby: Badminton, Swimming, Skiing, Cooking, Driving, Lego and Robot.
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
