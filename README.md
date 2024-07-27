@@ -3,9 +3,8 @@
 ![](img/leaves_sky.jpg)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I am currently studying for my undergraduate degree in the School of Software, Shandong University.
+- 🏦 I am studying for my master's degree at the Institute of Computing Technology, University of Chinese Academy of Sciences
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 In the future, I will go to the Institute of Computing Technology, Chinese Academy of Sciences (ICT) to study for a master's degree.
 - 🌈 My research direction is high-performance computing. Of course, I also know a little about computer vision, neural networks, network security and other fields.
 - 💬 I am interested in **FPGA**, **Deep Learning Accelerater**, **computer vision** and some other fields.
 - 💻 I use daily: **python**, **java**, **verilog**, **cpp**.
